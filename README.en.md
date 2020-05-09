@@ -30,4 +30,4 @@ Start of development: February 2019.
 
 ## Intercontinental
 
-Read this in other languages: <a href="https://github.com/dirceup/junior123-public/blob/master/README.en.md">English</a>, <a href="https://github.com/dirceup/junior123-public/blob/master/README.md">Português Brasileiro</a>.
+Read this in other languages: <a href="https://github.com/dirceup/junior123-public/blob/master/README.md">Português Brasileiro</a>.
