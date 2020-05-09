@@ -2,8 +2,6 @@
   <a target="_blank" href="https://junior123.com"><img width="700" src="https://github.com/dirceup/junior123-public/blob/master/images/junior123-sunshine.png" /></a>
 </p>
 
-Read this in other languages: <a href="https://github.com/dirceup/junior123-public/blob/master/README.en.md">English</a>, <a href="https://github.com/dirceup/junior123-public/blob/master/README.md">Português Brasileiro</a>.
-
 Inicio do desenvolvimento: Fevereiro de 2019.
 
 > No começo eu queria usar algumas _APIs_ e fazer um portal com busca, busca de imagens, notícias e compras. Mas eu não conseguiria fazer melhor que as páginas de resultado de busca (_SERP_) do Google ou notícias personalizadas que eles estão servindo então eu resolvi focar em uma experiência de "compras" diferente da disponível no mercado, baseada em vídeos de avaliações. -- Dirceu
@@ -27,3 +25,7 @@ Inicio do desenvolvimento: Fevereiro de 2019.
 <a href="https://github.com/mikaelcarrara">Mikael Moratto Carrara - UI Designer</a>
 
 <a href="https://github.com/dirceup">Dirceu Pauka Junior - Software Developer</a>
+
+## Intercontinental
+
+Read this in other languages: <a href="https://github.com/dirceup/junior123-public/blob/master/README.en.md">English</a>, <a href="https://github.com/dirceup/junior123-public/blob/master/README.md">Português Brasileiro</a>.
