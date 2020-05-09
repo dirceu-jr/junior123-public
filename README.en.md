@@ -10,6 +10,7 @@ Start of development: February 2019.
 
 <img align="left" width="200" src="https://github.com/dirceup/junior123-public/blob/master/images/junior123-prototipo.png" /> Initially, as can be viewed in the image beside (from February 2019), it would be offered a menu with the most popular categories in e-commerce, the principal content would be high-resolution images from best-selling products in each category and the right side menu would be a shortcut to page scroll (to go direct to desired product).
 <br>
+<br>
 
 ## Actual
 
