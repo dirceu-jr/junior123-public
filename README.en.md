@@ -28,6 +28,6 @@ Start of development: February 2019.
 
 <a href="https://github.com/dirceup">Dirceu Pauka Junior - Software Developer</a>
 
-## Intercontinental
+## International
 
 Read this in other languages: <a href="https://github.com/dirceup/junior123-public/blob/master/README.md">Português Brasileiro</a>.
