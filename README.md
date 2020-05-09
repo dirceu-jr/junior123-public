@@ -2,9 +2,11 @@
   <a target="_blank" href="https://junior123.com"><img width="700" src="https://github.com/dirceup/junior123-public/blob/master/images/junior123-sunshine.png" /></a>
 </p>
 
+Read this in other languages: <a href="https://github.com/dirceup/junior123-public/blob/master/README.en.md">English</a>, <a href="https://github.com/dirceup/junior123-public/blob/master/README.md">Português Brasileiro</a>.
+
 Inicio do desenvolvimento: Fevereiro de 2019.
 
-> No começo eu queria usar algumas _APIs_ e fazer um portal com busca, busca de imagens, notícias e compras. Mas eu não conseguiria fazer melhor que as páginas de resultado de busca (_SERP_) do Google ou notícias personalizadas que eles estão servindo então eu resolvi focar em uma experiência de "compras" diferente da disponível no mercado, baseada em vídeos de reviews. -- Dirceu
+> No começo eu queria usar algumas _APIs_ e fazer um portal com busca, busca de imagens, notícias e compras. Mas eu não conseguiria fazer melhor que as páginas de resultado de busca (_SERP_) do Google ou notícias personalizadas que eles estão servindo então eu resolvi focar em uma experiência de "compras" diferente da disponível no mercado, baseada em vídeos de avaliações. -- Dirceu
 
 ## Protótipo
 
@@ -18,7 +20,7 @@ Inicio do desenvolvimento: Fevereiro de 2019.
 
 ## Tech
 
-<img align="left" width="62" src="https://github.com/dirceup/junior123-public/blob/master/images/header-ruby-logo@2x.png" /><img align="right" width="62" src="https://github.com/dirceup/junior123-public/blob/master/images/js-logo.png" />Desenvolvido como um script em [Ruby](https://www.ruby-lang.org/) que usa tanto a biblioteca _HTTP_ padrão quanto [typhoeus](https://github.com/typhoeus/typhoeus) para acessar informações sobre categorias e produtos da _API_ do [Lomadee](https://developer.lomadee.com/) e vídeos da _API_ do [YouTube](https://developers.google.com/youtube/), são gerados arquivos estáticos que são armazenados e hospedados no Firebase Hosting para máxima performance e CDN. JavaScript é usado em algumas funções dinâmicas como carregamento assíncrono de conteúdo. O layout é fluído e responsivo.
+<img align="left" width="62" src="https://github.com/dirceup/junior123-public/blob/master/images/header-ruby-logo@2x.png" /><img align="right" width="62" src="https://github.com/dirceup/junior123-public/blob/master/images/js-logo.png" />Desenvolvido como um script em [Ruby](https://www.ruby-lang.org/) que usa tanto a biblioteca _HTTP_ padrão quanto [typhoeus](https://github.com/typhoeus/typhoeus) para acessar informações sobre categorias e produtos da _API_ do [Lomadee](https://developer.lomadee.com/) e listas de vídeos da _API_ do [YouTube](https://developers.google.com/youtube/). São gerados arquivos estáticos que são armazenados e hospedados no Firebase Hosting para máxima performance e CDN. JavaScript é usado em algumas funções dinâmicas como carregamento assíncrono de conteúdo. O layout é fluído e responsivo.
 
 ## Desenvolvedores
 
